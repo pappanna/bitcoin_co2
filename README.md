@@ -1,4 +1,4 @@
-# Bitcoin and CO2 Emissions: Evidence from daily production decisions in Pennsylvania 
+# Bitcoin and CO2 Emissions: Evidence from daily production decisions
 
 Code and data for *Bitcoin and CO2 Emissions: Evidence from daily production decisions in Pennsylvania*, by Anna Papp, Shuang Zhang, and Douglas Almond. 
 
