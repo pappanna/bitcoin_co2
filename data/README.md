@@ -16,6 +16,7 @@
 ## PJM Grid Data
 - __hourly-penelec.csv__: Hourly day-ahead LMP for PENELEC zone of PJM downloaded from: https://dataminer2.pjm.com/feed/da_hrl_lmps
 - __hourly-pjm.csv__: Hourly day-ahead LMP for PENELEC zone of PJM downloaded from: https://dataminer2.pjm.com/feed/da_hrl_lmps
+- __hourly-marginal-emissions.csv__: Hourly marginal emissions (for recent months) downloaded from: https://dataminer2.pjm.com/feed/fivemin_marginal_emissions/definition
 
 ## PJM Grid Weather Data 
 - __GEE__: First, code is run on Google Earth Engine to calculate temperature in each grid cell. Use this code: https://code.earthengine.google.com/7b4aac9b43c339db67b8b8fec64ef18f to generate the below files
