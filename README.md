@@ -10,7 +10,7 @@ After downloading appropriate data files, run the following scripts in the below
 ### [__00_clean_data__](code/00_clean_data): Code related to data cleaning.
 - [__00_clean_data.R__](code/00_clean_data/00_clean_data.R): Clean and combine various data sources into main data file.
   - Requires files in data/bitcoin, data/coal, data/grid, data/weather, and data/emissions folders.
-  - Creates data/processed/00_data.rda and data/processed/00_data/csv
+  - Creates data/processed/00_data.rda and data/processed/00_data.csv
 ### [__01_regressions__](code/01_regressions): Code related to running regressions presented in main and appendix tables.
 - [__01a_main_regressions.R__](code/01_regressions/01a_main_regressions.R): Creates Table 1 
 - [__01b_appendix_bounding.R__](code/01_regressions/01b_appendix_bounding.R): Creates Appendix Table A2 
