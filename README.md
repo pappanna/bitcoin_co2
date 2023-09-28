@@ -6,6 +6,7 @@ Code and data for *Bitcoin and carbon dioxide emissions: Evidence from daily pro
 
 ## Code for Replicating Paper
 
+After downloading appropriate data files, run the following scripts in the below order.
 ### [__00_clean_data__](code/00_clean_data): Code related to data cleaning.
 - [__00_clean_data.R__](code/00_clean_data/00_clean_data.R): Clean and combine various data sources into main data file.
   - Requires files in data/bitcoin, data/coal, data/grid, data/weather, and data/emissions folders.
