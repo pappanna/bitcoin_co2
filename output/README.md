@@ -1,4 +1,4 @@
-# Output placeholder. 
+# Output placeholder
 
 This folder should have the following folders: 
 - __01_regressions__
