@@ -1,0 +1,84 @@
+﻿State,Facility Name,Facility ID,Fuel Type,Energy
+AL,Gadsden,7,Bituminous,10750
+IN,C. C. Perry K Steam Plant,992,?,
+IA,Prairie Creek,1073,Sub-Bituminous,8940
+IA,Sutherland,1077,?,
+IA,Pella,1175,?,
+MI,River Rouge,1740,Sub-Bituminous,8940
+MI,Trenton Channel,1745,Sub-Bituminous,8940
+MI,Wyandotte,1866,?,
+MN,Hibbard Energy Center,1897,?,
+MO,Columbia,2123,?,
+NY,S A Carlson,2682,?,
+NC,Roxboro,2712,?,
+ND,Stanton,2824,?,
+OH,Bay Shore,2878,?,
+PA,Seward,3130,Bituminous Waste Coal,8491
+PA,Sunbury,3152,?,
+WI,Valley (WEPCO),4042,?,
+WI,Manitowoc,4125,?,
+NC,Mayo,6250,?,
+SC,"WestRock Charleston Kraft, LLC",7737,Bituminous,10750
+VA,RockTenn West Point Mill,10017,?,
+NY,"RED-Rochester, LLC-Eastman Business Park",10025,?,
+DE,Energy Center Dover LLC,10030,?,
+NJ,Logan Generating Plant,10043,Bituminous,10750
+VA,Virginia Renewable Power-Portsmouth LLC,10071,?,
+PA,Gilberton Power Company,10113,?,
+WV,Grant Town Power Plant,10151,Bituminous Waste Coal,8491
+OH,Pixelle Specialty Solutions LLC,10244,?,
+MI,T B Simon Power Plant,10328,?,
+VA,City Point Energy Center,10377,?,
+NC,CPI USA North Carolina Southport,10378,?,
+NC,CPI USA North Carolina Roxboro,10379,?,
+NC,"Duplin BioEnergy, LLC",10381,?,
+NC,"Edgecombe Genco, LLC",10384,?,
+NY,"Black River Generation, LLC",10464,?,
+NJ,Carneys Point,10566,Bituminous,10750
+PA,Cambria Cogen,10641,Bituminous Waste Coal,8491
+OK,River Valley,10671,Sub-Bituminous,8940
+FL,Cedar Bay Generating Co. LP,10672,?,
+PA,AES Beaver Valley LLC,10676,?,
+WV,Morgantown Energy Facility,10743,Bituminous,10750
+VA,Hopewell Power Station,10771,?,
+VA,Southampton Power Station,10774,?,
+IL,Archer Daniels Midland Co.,10865,?,
+IL,Tate & Lyle,10867,?,
+LA,Nelson Industrial Steam Company,50030,?,
+WV,UCC South Charleston Plant,50151,?,
+IN,Purdue University-Wade Utility,50240,?,
+NC,Blue Ridge Paper Products Inc.,50244,?,
+OH,Smart Papers LLC,50247,?,
+NC,"WestRock Kraft Paper, LLC",50254,?,
+MD,Luke Paper Company,50282,?,
+PA,Pixelle Specialty Solutions,50397,?,
+PA,Kimberly-Clark Tissue Company,50410,Bituminous Waste Coal,8491
+TN,Eastman Chemical Company,50481,?,
+WV,Axiall Corporation Natrium Plant,50491,?,
+NY,Syracuse Energy Corporation,50651,?,
+PA,Panther Creek Energy Facility,50776,Bituminous Waste Coal,8491
+SC,"WestRock CP, LLC Florence Mill",50806,Bituminous,10750
+MI,TES Filer City Station,50835,Bituminous,10750
+PA,Wheelabrator Frackville Energy,50879,Bituminous Waste Coal,8491
+VA,WestRock Virginia Corp Covington Ops,50900,?,
+TN,Resolute Forest Products - Calhoun Ops,50956,?,
+PA,Scrubgrass Generating Plant,50974,Bituminous Waste Coal,8491
+FL,"Indiantown Cogeneration, LP",50976,Bituminous,10750
+VA,Mecklenburg Power Station,52007,?,
+VA,Celanese Acetate LLC,52089,Sub-Bituminous,8940
+AL,International Paper-Prattville Mill,52140,?,
+SC,International Paper-Eastover Mill,52151,?,
+NC,Roanoke Valley Energy Facility I,54035,?,
+VA,"Spruance Operating Services, LLC",54081,Bituminous,10750
+OH,Cleveland-Cliffs Warren,54207,?,
+AL,Resolute FP - Coosa Pines Mill,54216,?,
+NC,University of NC Chapel Hill,54276,?,
+IL,Ingredion Incorporated Argo Plant,54556,?,
+IL,Ingredion Incorporated Argo Plant,54556,?,
+PA,St. Nicholas Cogeneration Project,54634,Bituminous Waste Coal,8491
+PA,"Domtar Paper Company, LLC",54638,?,
+NC,Roanoke Valley Energy Facility II,54755,?,
+MS,Red Hills Generation Facility,55076,?,
+IL,Tuscola Plant,55245,?,
+ND,Spiritwood Station,56786,Lignite,6900
+VA,Virginia City Hybrid Energy Center,56808,Bituminous,10750
