@@ -2,7 +2,7 @@
 
 Code and data for *Bitcoin and carbon dioxide emissions: Evidence from daily production decisions*, by Anna Papp, Shuang Zhang, and Douglas Almond, forthcoming in the *Journal of Public Economics*. 
 
-## Code 
+## Code for Replicating Paper
 
 ### [__00_clean_data__](code/00_clean_data): Code related to data cleaning.
 - [__00_clean_data.R__](code/00_clean_data/00_clean_data.R): Clean and combine various data sources into main data file.
