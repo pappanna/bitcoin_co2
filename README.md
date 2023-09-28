@@ -26,7 +26,7 @@ Code and data for *Bitcoin and carbon dioxide emissions: Evidence from daily pro
   - Requires files in data/annual_emissions and data/other folders.
 - [__03a_context_extvalidity_ba.R__](code/03_context_extvalidity/03a_context_extvalidity_ba.R): Creates Appendix Figure A8
   - Requires files in data/ba_carbon_accounting folder.
-- [__03a_context_extvalidity_pa.R__](code/03_context_extvalidity/03a_context_extvalidity_pa.R): Creates Appendix Figure A5
+- [__03c_context_extvalidity_pa.R__](code/03_context_extvalidity/03c_context_extvalidity_pa.R): Creates Appendix Figure A5
   - Requires files in data/annual_emissions and data/other folders.
 ### [__04_ripeforretirement__](code/04_ripeforretirement): Code related to ripe for retirement calculations and figures.
 
