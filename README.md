@@ -9,18 +9,18 @@ Code and data for *Bitcoin and carbon dioxide emissions: Evidence from daily pro
   - Requires files in data/bitcoin, data/coal, data/grid, data/weather, and data/emissions folders.
   - Creates data/processed/00_data.rda and data/processed/00_data/csv
 ### [__01_regressions__](code/01_regressions): Code related to running regressions presented in main and appendix tables.
-  - Requires data/processed/00_data.rda created in 00_clean_data.R
 - [__01a_main_regressions.R__](code/01_regressions/01a_main_regressions.R): Creates Table 1 
 - [__01b_appendix_bounding.R__](code/01_regressions/01b_appendix_bounding.R): Creates Appendix Table A2 
 - [__01c_appendix_timeseries.do__](code/01_regressions/01c_appendix_timeseries.do): Creates Appendix Table A3 
 - [__01d_appendix_timeseries_regressions.R__](code/01_regressions/01d_appendix_timeseries_regressions.R): Creates Appendix Table A4 
 - [__01e_appendix_fixed_effects.R__](code/01_regressions/01e_appendix_fixed_effects.R): Creates Appendix Table A5 and A6 
 - [__01f_appendix_other_robust.R__](code/01_regressions/01f_appendix_other_robust.R): Creates Appendix Tables A7 - A13, A16, A17
-- [__01g_appendix_other_coal.R__](code/01_regressions/01g_appendix_other_coal.R): Creates Table A14 
+- [__01g_appendix_other_coal.R__](code/01_regressions/01g_appendix_other_coal.R): Creates Table A14
+  - All scripts require data/processed/00_data.rda created in 00_clean_data.R
 ### [__02_charts__](code/02_charts): Code related to creating charts in paper.
-  - Requires data/processed/00_data.csv created in 00_clean_data.R
 - [__02a_hashrate_chart.do__](code/02_charts/02a_hashrate_chart.do): Creates Figures 1 and 2 
 - [__02b_demean_charts.do__](code/02b_demean_charts.do): Creates Figure 3 and Appendix Figure A7
+  - All scripts require data/processed/00_data.csv created in 00_clean_data.R
 ### [__03_context_extvalidity__](code/03_context_extvalidity): Code related to external validity / context figures.
   - Requires files in data/annual_emissions folders.
 - [__03a_context_extvalidity_all_plants.R__](code/03_context_extvalidity/03a_context_extvalidity_all_plants.R): Creates Figure 4
