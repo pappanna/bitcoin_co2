@@ -6,3 +6,5 @@ __bitcoin_difficulty.csv__: Bitcoin network difficulty downloaded from https://d
 
 __bitcoin-hashrate-reward.csv__: Bitcoin network hashrate downloaded from https://data.nasdaq.com/data/BCHAIN/HRATE-bitcoin-hash-rate
 
+__country-hashrate.csv__: Countries' share of hashrate downloaded from https://ccaf.io/cbnsi/cbeci/mining_map
+
