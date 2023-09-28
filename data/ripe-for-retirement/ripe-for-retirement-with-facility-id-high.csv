@@ -1,0 +1,193 @@
+state,plant,owner,generators,capacity,online,id
+AL,Greene County,Southern Company,2 of 2,568,1965 - 1966,10
+AL,Gadsden,Southern Company,2 of 2,138,1949,7
+AL,Charles R. Lowman,"PowerSouth Energy 
+Cooperative",1 of 3,66,1969,56
+AL,Gorgas,Southern Company,4 of 5,628,1951 - 1958,8
+AL,Barry,Southern Company,5 of 5,"1,771",1954 - 1971,3
+AL,Colbert,Tennessee Valley Authority,5 of 5,"1,350",1955 - 1965,47
+AL,E.C. Gaston,Southern Company,5 of 5,"2,013",1960 - 1974,26
+AK,Che Power Plant,"Aurora Energy, LLC",2 of 4,8,1952,
+AZ,Apache Station,"Arizona Electric Power 
+Cooperative Inc.",2 of 2,408,1979,160
+AZ,H. Wilson Sundt Generating Station,UniSource Energy,1 of 1,173,1967,
+CO,Arapahoe,Xcel Energy Inc.,1 of 2,112,1955,465
+CO,Martin Drake Plant,Colorado Springs Utilities,2 of 3,125,1962 - 1968,492
+CO,Nucla,"Tri-State Generation & 
+Transmission Association, Inc.",1 of 4,79,1991,527
+CT,Bridgeport Harbor 3,Public Service Enterprise Group Inc.,1 of 1,400,1968,568
+DE,Indian River,"NRG Energy, Inc.",1 of 4,442,1980,594
+FL,Scholz,Southern Company,1 of 1,49,1953,642
+FL,Deerhaven,Gainesville Regional Utilities,1 of 1,251,1981,663
+FL,"C.D. McIntosh, Jr. 3",Multi-owned,1 of 1,364,1982,676
+FL,Cedar Bay Generating,"Goldman Sachs Group, Inc.",1 of 1,292,1994,10672
+FL,Lansing Smith,Southern Company,2 of 2,340,1965 - 1967,643
+FL,Crystal River,"Progress Energy, Inc.",2 of 4,"1,478",1982 - 1984,628
+FL,Crist,Southern Company,3 of 4,"1,041",1961 - 1973,
+GA,Plant Crisp,"Crisp County Power 
+Commission",1 of 1,13,1957,
+GA,Mitchell,Southern Company,1 of 1,163,1964,727
+GA,Kraft 1-3,Southern Company,3 of 3,208,1958 - 1965,733
+GA,Harllee Branch,Southern Company,2 of 4,"1,088",1968 - 1969,709
+GA,Bowen,Southern Company,4 of 4,"3,499",1971 - 1975,703
+GA,Hammond,Southern Company,4 of 4,953,1954 - 1970,708
+GA,Yates,Southern Company,7 of 7,"1,487",1950 -1974,728
+IL,Joliet 9 Station,Edison International,1 of 1,360,1959,874
+IL,Pearl Station,"Prairie Power, Inc.",1 of 1,22,1967,
+IL,Tuscola Station,Duke Energy Corp.,3 of 3,18,1953 - 2001,55245
+IL,Will County,Edison International,1 of 4,299,1957,884
+IL,Marion,"Southern Illinois Power 
+Cooperative",1 of 4,33,1963,976
+IL,Dallman,"City Water, Light and Power",1 of 4,90,1968,963
+IN,Jasper 2,City of Jasper,1 of 1,15,1968,
+IN,Logansport,City of Logansport,1 of 2,18,1958,
+IN,F.B. Culley,Vectren Corp.,1 of 2,104,1966,1012
+IN,Frank E. Ratts,Hoosier Energy Rural Electric Co-op Inc.,1 of 2,117,1970,1043
+IN,Crawfordsville,Crawfordsville Electric Light & Power,2 of 2,24,1955 - 1965,
+IN,Peru,City of Peru,2 of 2,35,1949 - 1959,
+IN,Tanners Creek,American Electric Power Company,1 of 4,580,1964,988
+IN,Warrick,ALCOA,1 of 4,323,1970,
+IN,R.M. Schahfer,NiSource Inc.,1 of 4,556,1979,6085
+IN,R. Gallagher,Duke Energy Corp.,2 of 4,300,1958 - 1961,1008
+IN,Wabash River Station,Duke Energy Corp.,3 of 5,361,1953 - 1956,1010
+IA,Earl F. Wisdom,Corn Belt Power Cooperative,1 of 1,33,1960,1217
+IA,M.L. Kapp,Alliant Energy Corp.,1 of 1,218,1967,1048
+IA,Prairie Creek,Alliant Energy Corp.,1 of 2,50,1958,1073
+IA,Fair Station,"Central Iowa Power 
+Cooperative",1 of 2,38,1967,1218
+IA,Ames,City of Ames,2 of 2,109,1968 - 1982,1122
+IA,Riverside (IA),"MidAmerican Energy 
+Holdings Co.",2 of 2,141,1949 - 1961,1081
+IA,Streeter Station,City of Cedar Falls,2 of 2,52,1963 - 1973,1131
+IA,Sutherland ST,Alliant Energy Corp.,1 of 3,82,1961,1077
+IA,Lansing,Alliant Energy Corp.,1 of 3,275,1977,1047
+IA,Dubuque,Alliant Energy Corp.,2 of 3,66,1952 - 1959,1046
+IA,Muscatine,Muscatine Power & Water,1 of 4,75,1969,1167
+IA,"Walter Scott, Jr. Energy Center","MidAmerican Energy 
+Holdings Co.",2 of 4,131,1954 - 1958,1082
+KS,Lawrence,"Westar Energy, Inc.",1 of 3,49,1955,1250
+KS,Nearman Creek,City of Kansas City,1 of 1,261,1981,6064
+KS,Quindaro,City of Kansas City,2 of 2,239,1965 - 1971,1295
+KS,Tecumseh,"Westar Energy, Inc.",1 of 2,82,1957,1252
+KY,Dale,East Kentucky Power Coop. Inc.,4 of 4,216,1954 - 1960,1385
+KY,E.W. Brown,PPL Corp.,2 of 3,560,1957 - 1971,1355
+KY,J. Sherman Cooper,East Kentucky Power Coop. Inc.,2 of 2,344,1965 - 1969,1384
+KY,R.A. Reid,Big Rivers Electric Corp.,1 of 1,96,1966,1383
+KY,Shawnee,Tennessee Valley Authority,1 of 10,175,1953 - 1956,1379
+MD,Warrior Run Cogeneration,AES Corp.,1 of 1,229,1999,10678
+MD,C.P. Crane,"Constellation Energy Group, Inc.",2 of 2,400,1961 - 1963,1552
+MD,Dickerson,"GenOn Energy, Inc.",3 of 3,588,1959 - 1962,1572
+MD,Herbert A. Wagner 2-3,"Constellation Energy Group, Inc.",1 of 2,136,1959,1554
+MD,Chalk Point 1-2,"GenOn Energy, Inc.",2 of 2,728,1964 - 1965,1571
+MI,Harbor Beach,DTE Energy Company,1 of 1,121,1968,1731
+MI,Erickson,Lansing Board of Water & Light,1 of 1,155,1973,1832
+MI,Endicott Generating,Michigan South Central Power Agency,1 of 1,55,1982,
+MI,J.B. Sims,City of Grand Haven,1 of 1,80,1983,1825
+MI,Shiras,City of Marquette,1 of 2,21,1972,1843
+MI,B. C. Cobb,CMS Energy Corp.,2 of 2,313,1956 - 1957,1695
+MI,J.C. Weadock,CMS Energy Corp.,2 of 2,313,1955 - 1958,1720
+MI,Wyandotte,Wyandotte Municipal Service Commission,2 of 2,54,1958 - 1986,1866
+MI,Escanaba,City of Escanaba,2 of 2,23,1958,
+MI,James De Young,City of Holland,2 of 3,41,1951 - 1969,1830
+MI,Trenton Channel,DTE Energy Company,2 of 3,240,1949 - 1950,1745
+MI,J.R. Whiting,CMS Energy Corp.,3 of 3,345,1952 - 1953,1723
+MI,White Pine Copper Refinery,Traxys North America LLC,3 of 3,60,1954,
+MI,St. Clair,DTE Energy Company,5 of 6,"1,003",1953 - 1961,1743
+MI,Eckert Station,Lansing Board of Water & Light,6 of 6,375,1954 - 1970,1831
+MI,Presque Isle,Wisconsin Energy Corporation,5 of 7,450,1974 - 1979,1769
+MN,Willmar,Willmar Municipal Utility Commission,1 of 1,18,1970,
+MN,Austin Northeast,City of Austin,1 of 1,32,1971,
+MN,Hoot Lake,Otter Tail Corporation,2 of 2,129,1959 - 1964,1943
+MN,Black Dog Station,Xcel Energy Inc.,2 of 2,294,1955 - 1960,1904
+MN,SylLaskin,"ALLETE, Inc.",2 of 2,116,1953,1891
+MN,Silver Lake,Rochester Public Utilities,3 of 3,91,1953 - 1969,2008
+MS,Henderson,"Greenwood Utilities 
+Commission",2 of 2,33,1960 - 1967,
+MS,Jack Watson,Southern Company,2 of 2,877,1968 - 1973,2049
+MS,R.D. Morrow,South Mississippi Electric Power Assoc.,2 of 2,400,1978,6061
+MS,"Victor J. Daniel, Jr.",Southern Company,2 of 2,"1,097",1977 - 1981,6073
+MO,Lake Road,Great Plains Energy Inc.,1 of 1,90,1966,2098
+MO,Chamois,"Central Electric Power 
+Cooperative",2 of 2,59,1953 - 1960,2169
+MO,Columbia,City of Columbia,2 of 2,39,1957 - 1965,8023
+MO,Missouri City,City of Independence City,2 of 2,46,1954,
+MO,Montrose,Great Plains Energy Inc.,1 of 3,188,1958,2080
+MO,Blue Valley,City of Independence,3 of 3,115,1958 - 1965,2132
+MO,James River Power Station,City Utilities of Springfield,3 of 5,209,1960 - 1970,2161
+NE,Lon Wright,City of Fremont,1 of 3,92,1977,2240
+NE,North Omaha,Omaha Public Power District,5 of 5,645,1954 - 1968,2291
+NE,Platte,City of Grand Island,1 of 1,110,1982,59
+NE,Whelan Energy Center,Multi-owned,1 of 1,76,1981,60
+NH,Merrimack,Northeast Utilities,2 of 2,459,1960 - 1968,2364
+NH,Schiller Coal,Northeast Utilities,2 of 2,100,1952 - 1957,2367
+NJ,B.L. England 1-2,Multi-owned,2 of 2,299,1962 - 1964,2378
+NJ,Chambers Cogeneration,Multi-owned,1 of 1,285,1994,
+NJ,Mercer,Public Service Enterprise Group Inc.,2 of 2,653,1960 - 1961,2408
+NJ,Hudson 2,Public Service Enterprise Group Inc.,1 of 1,660,1968,2403
+NY,Black River Generation,Multi-owned,1 of 1,56,1989,10464
+NY,Westover,AES Corporation,1 of 2,75,1951,2526
+NY,C.R. Huntley,"NRG Energy, Inc.",1 of 2,218,1957,2549
+NY,Syracuse Energy Corp.,GDF Suez SA,1 of 2,91,1991,50651
+NY,Danskammer 3-4,Dynegy Inc.,2 of 2,387,1959 - 1967,2480
+NY,Samuel A. Carlson,Jamestown Board of Public Utilities,2 of 2,49,1951 - 1968,2682
+NY,Dunkirk,"NRG Energy, Inc.",4 of 4,627,1950 - 1960,2554
+NC,Elizabethtown ST,Vulcan Capital,1 of 1,35,1985,10380
+NC,Lumberton ST,Vulcan Capital,1 of 1,35,1985,10382
+NC,Roxboro ST,Capital Power Corp.,1 of 1,68,1987,2712
+NC,Southport ST,Capital Power Corp.,2 of 2,135,1987,10378
+NC,Rocky Mount/D.C. Battle,Multi-owned,2 of 2,115,1990,
+NC,Cliffside,Duke Energy Corp.,1 of 5,571,1972,2721
+NC,G.G. Allen,Duke Energy Corp.,5 of 5,"1,155",1957 - 1961,2718
+ND,"R.M. Heskett Generating  
+Station","MDU Resources Group, Inc.",1 of 2,75,1963,2790
+OH,Hamilton,City of Hamilton,2 of 2,76,1965 - 1975,2917
+OH,Orrville,City of Orrville,1 of 3,25,1971,
+OH,O.H. Hutchings,AES Corporation,4 of 5,276,1950 - 1953,2848
+OH,Painesville,City of Painesville,3 of 3,46,1953 - 1990,
+OH,W.H. Sammis,FirstEnergy Corp.,6 of 7,"1,776",1959 - 1969,2866
+PA,Mitchell Power Station 3,FirstEnergy Corp.,1 of 1,299,1963,3181
+PA,Westwood Generating Station,"Integrys Energy Group, Inc.",1 of 1,36,1987,
+PA,John B. Rich Memorial,Gilberton Power Company,1 of 1,88,1988,
+PA,Wheelabrator Frackville,"Waste Management, Inc.",1 of 1,48,1988,50879
+PA,"Northeastern Power 
+Cogeneration",GDF Suez SA,1 of 1,58,1989,50039
+PA,Ebensburg Power Company,McDermott International,1 of 1,58,1990,10603
+PA,St. Nicholas Cogeneration,"Schuylkill Energy Resource, Inc.",1 of 1,99,1990,54634
+PA,Cambria Cogeneration,Northern Star Generation,1 of 1,98,1991,10641
+PA,Panther Creek,Multi-owned,1 of 1,94,1992,50776
+PA,Piney Creek Project,"Colmac Clarion, Inc.",1 of 1,36,1992,54144
+PA,Scrubgrass,Pacific Gas and Electric Co.,1 of 1,95,1993,50974
+PA,Colver Power Project,"Constellation Energy Group, Inc.",1 of 1,118,1995,10143
+PA,Beaver Valley Station,AES Corp.,1 of 2,35,1987,10676
+PA,Montour,PPL Corp.,1 of 3,17,1973,3149
+SC,H.B. Robinson Coal,"Progress Energy, Inc.",1 of 1,207,1960,3251
+SC,Williams,SCANA Corp.,1 of 1,633,1973,3298
+SC,Wateree,SCANA Corp.,2 of 2,772,1970 - 1971,3297
+SC,Jefferies,South Carolina Public Service Authority,2 of 2,346,1970,3319
+SC,W.S. Lee,Duke Energy Corp.,3 of 3,355,1951 - 1958,3264
+SC,Winyah,South Carolina Public Service Authority,2 of 4,630,1977 - 1980,6249
+TN,John Sevier,Tennessee Valley Authority,4 of 4,800,1955 - 1957,3405
+TN,Kingston,Tennessee Valley Authority,9 of 9,"1,700",1954 - 1955,3407
+TN,Johnsonville,Tennessee Valley Authority,9 of 10,"1,360",1951 - 1959,3406
+VA,Altavista,"Dominion Resources, Inc.",1 of 1,71,1992,10773
+VA,Hopewell (Polyester),"Dominion Resources, Inc.",1 of 1,71,1992,10771
+VA,Southampton,"Dominion Resources, Inc.",1 of 1,71,1992,10774
+VA,Bremo Bluff,"Dominion Resources, Inc.",2 of 2,254,1950 - 1958,3796
+VA,James River Station,"Goldman Sachs Group, Inc.",2 of 2,115,1988,2161
+VA,Portsmouth Station,Multi-owned,2 of 2,115,1988,10071
+VA,Mecklenburg Cogeneration,"Dominion Resources, Inc.",2 of 2,140,1992,52007
+VA,Clinch River,"American Electric Power Company, Inc.",2 of 3,475,1958,3775
+VA,Chesterfield,"Dominion Resources, Inc.",3 of 4,659,1952 - 1964,3797
+VA,Spruance Genco,Multi-owned,4 of 4,230,1992,54081
+WV,Morgantown Energy Facility,"GenOn Energy, Inc.",1 of 1,69,1991,10743
+WV,Grant Town Cogen,Edison International,1 of 1,96,1992,10151
+WV,John E. Amos,"American Electric Power Company, Inc.",1 of 3,"1,300",1973,3935
+WI,Genoa,Dairyland Power Cooperative,1 of 1,346,1969,4143
+WI,Milwaukee County,Wisconsin Energy Corp.,1 of 1,11,1996,
+WI,Nelson Dewey,Alliant Energy Corp.,2 of 2,200,1959 - 1962,4054
+WI,Edgewater,Alliant Energy Corp.,1 of 3,60,1951,4050
+WI,Menasha,Menasha Electric & Water Utility,1 of 3,14,1964,
+WI,Weston,"Integrys Energy Group, Inc.",2 of 4,142,1954 - 1960,4078
+WI,Pulliam,"Integrys Energy Group, Inc.",4 of 4,350,1949 - 1964,4072
+WI,South Oak Creek,Wisconsin Energy Corp.,4 of 4,"1,192",1959 - 1967,4041
+WI,Alma,Dairyland Power Cooperative,2 of 5,136,1957 - 1960,4140
