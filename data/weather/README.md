@@ -4,8 +4,8 @@ __GEE__: First, code is run on Google Earth Engine to calculate temperature in e
 
 Files downloaded in folder result from above GEE code. 
 
-__sumpop.csv__: Population for each grid cell.
+__sumpop.csv__: Population for each grid cell
 
-__sumprecip_YEAR.csv__: Precipitation in each grid cell, for each year.
+__sumprecip_YEAR.csv__: Precipitation in each grid cell, for each year
 
-__sumtemp_YEAR.csv__: Temperature in each grid cell, for each year.
+__sumtemp_YEAR.csv__: Temperature in each grid cell, for each year
