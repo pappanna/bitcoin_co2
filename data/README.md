@@ -38,6 +38,10 @@ __sumtemp_YEAR.csv__: Temperature in each grid cell, for each year
 ## Carbon Accounting Data for Balancing Authorities 
 - Download data for 2021 for each balancing authority here: https://singularity.energy/data-download-page
 
+## Ripe for Retirement Data 
+- __ripe-for-retirement-with-facility-id-high.csv__: Digitized version of table from this report (Table E-2): https://www.ucsusa.org/sites/default/files/2019-09/Ripe-for-Retirement-Executive-Summary.pdf
+- __ripe-for-retirement-with-facility-id-low.csv__: Digitized version of table from this report (Table E-3) : https://www.ucsusa.org/sites/default/files/2019-09/Ripe-for-Retirement-Executive-Summary.pdf
+
 ## Other Data 
 - __coal-type.csv__: This file collects information on the coal type used by certain power plants from: https://www.gem.wiki/Main_Page
 
