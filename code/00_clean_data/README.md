@@ -1,1 +1,3 @@
-
+__00_clean_data.R__: Clean and combine various data sources into main data file.
+- Requires files in data/bitcoin, data/coal, data/grid, data/weather, and data/emissions folders.
+- Creates data/processed/00_data.rda
