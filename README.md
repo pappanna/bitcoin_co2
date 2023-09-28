@@ -6,8 +6,8 @@ Code and data for *Bitcoin and carbon dioxide emissions: Evidence from daily pro
 
 ### __00_clean_data__: Code related to data cleaning.
 - __00_clean_data.R__: Clean and combine various data sources into main data file.
--   Requires files in data/bitcoin, data/coal, data/grid, data/weather, and data/emissions folders.
--   Creates data/processed/00_data.rda
+-- Requires files in data/bitcoin, data/coal, data/grid, data/weather, and data/emissions folders.
+-- Creates data/processed/00_data.rda
 ### __01_regressions__: Code related to running regressions presented in main and appendix tables.
 - __01a_main_regressions.R__:
 - __01b_appendix_bounding.R__:
