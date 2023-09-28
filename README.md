@@ -2,6 +2,8 @@
 
 Code and data for *Bitcoin and carbon dioxide emissions: Evidence from daily production decisions*, by Anna Papp, Shuang Zhang, and Douglas Almond, forthcoming in the *Journal of Public Economics*. 
 
+*Abstract:* Environmental externalities from cryptomining may be large, but have not been linked causally to mining incentives. We exploit daily variation in Bitcoin price as a natural experiment for an 86 megawatt coal-fired power plant with on-site cryptomining. We find that carbon emissions respond swiftly to mining incentives, with price elasticities of 0.69-0.71 in the short-run and 0.33-0.40 in the longer run. A $1 increase in Bitcoin price leads to $3.11-$6.79 in external damages from carbon emissions alone, well exceeding cryptomining’s value added (using a $190 social cost of carbon, but ignoring increased local air pollution). As cryptomining requires ever more computing power to mine a given number of blocks, our study highlights both the revitalization of US fossil assets and the need for financial industry accounting to incorporate cryptomining externalities.
+
 ## Code for Replicating Paper
 
 ### [__00_clean_data__](code/00_clean_data): Code related to data cleaning.
