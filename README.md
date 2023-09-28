@@ -4,20 +4,20 @@ Code and data for *Bitcoin and carbon dioxide emissions: Evidence from daily pro
 
 ## Code 
 
-- __00_clean_data__: Code related to data cleaning.
-  -- __00_clean_data.R__: Clean and combine various data sources into main data file. (Requires files in data folder.)
-- __01_regressions__: Code related to running regressions presented in main and appendix tables. 
-  -- __01a_main_regressions.R__:
-  -- __01b_appendix_bounding.R__:
-  -- __01c_appendix_timeseries.do__:
-  -- __01d_appendix_timeseries_regressions.R__:
-  -- __01e_appendix_fixed_effects.R__: 
-  -- __01f_appendix_other_robust.R__:
-- __02_charts__: Code related to creating charts in paper.
-  -- __02a_hashrate_chart.do__:
-  -- __02b_demean_charts.do__:
-- __03_context_extvalidity__:
-- __04_ripeforretirement__: 
+# __00_clean_data__: Code related to data cleaning.
+- __00_clean_data.R__: Clean and combine various data sources into main data file. (Requires files in data folder.)
+# __01_regressions__: Code related to running regressions presented in main and appendix tables.
+- __01a_main_regressions.R__:
+- __01b_appendix_bounding.R__:
+- __01c_appendix_timeseries.do__:
+- __01d_appendix_timeseries_regressions.R__:
+- __01e_appendix_fixed_effects.R__:
+- __01f_appendix_other_robust.R__:
+# __02_charts__: Code related to creating charts in paper.
+- __02a_hashrate_chart.do__:
+- __02b_demean_charts.do__:
+# __03_context_extvalidity__:
+# __04_ripeforretirement__: 
 
 ## Data
 
