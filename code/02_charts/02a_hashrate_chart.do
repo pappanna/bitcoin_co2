@@ -17,7 +17,25 @@ set scheme plotplain
 local c1 "136 34 85"
 local c2 "51 34 136"
 
-************* GRAPH 1: Hashrates **************************************************
+
+************* GRAPH 1: Bitcoin Difficulty *******************************************
+
+import delimited "data/processed/00_data.csv", clear 
+keep date btc difficulty 
+gen datenew = date(date, "YMD" )
+format datenew %tdMon_CCYY
+drop date 
+rename datenew date 
+tsset date 
+replace difficulty = difficulty / (10^12)
+label var difficulty "Bitcoin Network Difficulty (Trillion Units)"
+
+* MAIN FIGURE 1
+graph twoway (tsline difficulty, yaxis (1) xtitle("Date") lcolor("`c1'") ylabel(, labcolor("`c1'") tlcolor("`c1'")) yscale(lcolor("`c1'")) legend(pos(6)) ) 
+graph export output/02_charts/02_difficulty.png, replace
+
+
+************* GRAPH 2: Hashrates **************************************************
 
 import delimited "data/bitcoin/country-hashrate.csv", clear
 
@@ -56,20 +74,6 @@ tostring chinaperc usperc, replace force
 replace chinaperc = substr(chinaperc, 1, 4) + "%"
 replace usperc = substr(usperc, 1, 4) + "%"
 
+* MAIN FIGURE 2 
 graph twoway (connected us newdate, msymbol(O) mcolor("`c2'") lcolor("`c2'")) (scatter us newdate if tag, msymbol(O) mcolor("`c2'") lcolor("`c2'") mlabel(usperc) mlabpos(12) mlabcolor("`c2'") mlabsize(vsmall) ) (connected china newdate, msymbol(O) mcolor("`c1'") lcolor("`c1'")) (scatter china newdate if tag, msymbol(O) mcolor("`c1'") lcolor("`c1'")  mlabel(chinaperc) mlabpos(12) mlabcolor("`c1'") mlabsize(vsmall) legend(order(1 3))), xtitle("Month") legend(pos(6)) ytitle("Bitcoin Hashrate Share (%)") 
 graph export output/02_charts/02_country_share.png, replace
-
-************* GRAPH 4: Bitcoin Difficulty *******************************************
-
-import delimited "data/processed/00_data.csv", clear 
-keep date btc difficulty 
-gen datenew = date(date, "YMD" )
-format datenew %tdMon_CCYY
-drop date 
-rename datenew date 
-tsset date 
-replace difficulty = difficulty / (10^12)
-label var difficulty "Bitcoin Network Difficulty (Trillion Units)"
-
-graph twoway (tsline difficulty, yaxis (1) xtitle("Date") lcolor("`c1'") ylabel(, labcolor("`c1'") tlcolor("`c1'")) yscale(lcolor("`c1'")) legend(pos(6)) ) 
-graph export output/02_charts/02_difficulty.png, replace

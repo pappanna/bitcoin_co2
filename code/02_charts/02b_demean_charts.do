@@ -17,7 +17,7 @@ local c1 "204 102 119"
 local c2 "68 170 153"
 graph drop _all 
 
-************* GRAPH 2: Post-mining **************************************************
+************* GRAPH 3: Post-mining **************************************************
 
 import delimited "data/processed/00_data.csv", clear 
 
@@ -63,11 +63,12 @@ gen btcresid = btc - btcpred
 label var co2massresid "CO2 Mass Residual (1000 Metric Tons)"
 label var btcresid "Bitcoin Price Residual ($)"
 
-* residuals graph 2
+* residuals graph 2 
+* FIGURE 3 
 graph twoway line co2massresid newdate, yaxis(1) lcolor("`c1'") ylabel(, labcolor("`c1'") tlcolor("`c1'")) yscale(lcolor("`c1'")) || line btcresid newdate, lcolor("`c2'") yaxis(2) ylabel(, ax(2) labcolor("`c2'") tlcolor("`c2'")) yscale(ax(2) lcolor("`c2'")) xtitle("Month") legend(pos(6))  name(g2)
 graph export output/02_charts/02_btc_co2_residuals.png, replace 
 
-************* GRAPH 3: Pre-mining **************************************************
+************* GRAPH A7: Pre-mining **************************************************
 graph drop _all 
 
 import delimited "data/processed/00_data.csv", clear 
@@ -104,7 +105,6 @@ graph twoway line co2massresid newdate, yaxis(1) lcolor("`c1'") ylabel(, labcolo
 
 drop co2masspred co2massresid btcpred btcresid
 
-
 * residuals 2
 reg co2mass costmwh mwhperbtc palmp i.month, vce(robust)
 predict co2masspred
@@ -116,6 +116,7 @@ label var co2massresid "CO2 Mass Residual (1000 Metric Tons)"
 label var btcresid "Bitcoin Price Residual ($)"
 
 * residuals graph 2
+* APPENDIX FIGURE A7
 graph twoway line co2massresid newdate, yaxis(1) lcolor("`c1'") ylabel(, labcolor("`c1'") tlcolor("`c1'")) yscale(lcolor("`c1'")) || line btcresid newdate, lcolor("`c2'") yaxis(2) ylabel(, ax(2) labcolor("`c2'") tlcolor("`c2'")) yscale(ax(2) lcolor("`c2'")) xtitle("Month") legend(pos(6))  name(g2)
 graph export output/02_charts/02_btc_co2_residuals_pre.png, replace 
 
