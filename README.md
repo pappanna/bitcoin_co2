@@ -22,9 +22,10 @@ Code and data for *Bitcoin and carbon dioxide emissions: Evidence from daily pro
 - [__02b_demean_charts.do__](code/02b_demean_charts.do): Creates Figure 3 and Appendix Figure A7
   - All scripts require data/processed/00_data.csv created in 00_clean_data.R
 ### [__03_context_extvalidity__](code/03_context_extvalidity): Code related to external validity / context figures.
-  - Requires files in data/annual_emissions folders.
 - [__03a_context_extvalidity_all_plants.R__](code/03_context_extvalidity/03a_context_extvalidity_all_plants.R): Creates Figure 4
-- [__03a_context_extvalidity_ba.R__](code/03_context_extvalidity/03a_context_extvalidity_ba.R): 
+  - Requires files in data/annual_emissions and data/other folders.
+- [__03a_context_extvalidity_ba.R__](code/03_context_extvalidity/03a_context_extvalidity_ba.R): Creates Appendix Figure A8
+  - Requires files in data/ba_carbon_accounting folder.
 ### [__04_ripeforretirement__](code/04_ripeforretirement): Code related to ripe for retirement calculations and figures.
 
 ## Data
