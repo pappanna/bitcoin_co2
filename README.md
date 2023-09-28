@@ -16,11 +16,11 @@ Code and data for *Bitcoin and carbon dioxide emissions: Evidence from daily pro
 - [__01e_appendix_fixed_effects.R__](code/01_regressions/01e_appendix_fixed_effects.R): Creates Appendix Table A5 and A6 
 - [__01f_appendix_other_robust.R__](code/01_regressions/01f_appendix_other_robust.R): Creates Appendix Tables A7 - A13, A16, A17
 - [__01g_appendix_other_coal.R__](code/01_regressions/01g_appendix_other_coal.R): Creates Table A14 
-### __02_charts__: Code related to creating charts in paper.
-- __02a_hashrate_chart.do__: Creates Figures 1 and 2 
-- __02b_demean_charts.do__: Creates Figure 3 and Appendix Figure A7
-### __03_context_extvalidity__:
-### __04_ripeforretirement__: 
+### [__02_charts__](code/02_charts): Code related to creating charts in paper.
+- [__02a_hashrate_chart.do__](code/02_charts/02a_hashrate_chart.do): Creates Figures 1 and 2 
+- [__02b_demean_charts.do__](code/02b_demean_charts.do): Creates Figure 3 and Appendix Figure A7
+### [__03_context_extvalidity__](code/03_context_extvalidity):
+### [__04_ripeforretirement__](code/04_ripeforretirement): 
 
 ## Data
 
